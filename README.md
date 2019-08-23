@@ -1,7 +1,9 @@
 # Customasible checkbox like ios style
+only html and css/scss
 
 [demo](https://tltary.github.io/switchbox/index.html)
 
+### html
 ``` html
 <label class="switch__box">
   	<input type="checkbox" checked>
